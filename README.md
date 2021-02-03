@@ -1,4 +1,4 @@
-# Project Starter
+# Scroll Animation
 
 ## Introduction
 
